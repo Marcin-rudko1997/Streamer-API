@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "Animals",
+      "description": "Animals dancing",
+      "id": 1
+    },
+    {
+      "title": "Gaming",
+      "description": "Playing Call of Duty",
+      "id": 2
+    },
+    {
+      "title": "Big Race",
+      "description": "Horse royal race",
+      "id": 5
+    },
+    {
+      "title": "Pokemon",
+      "description": "Catching Mew2",
+      "userId": "102873544297412034837",
+      "id": 6
+    }
+  ]
+}
